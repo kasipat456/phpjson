@@ -23,6 +23,9 @@ PHPJSON_0075_P29
 PHPJSON_0075_P31
 ![alt text](https://github.com/kasipat456/phpjson/blob/main/Picture/php31.png)
 
+PHPJSON_0075_P33
+![alt text](https://github.com/kasipat456/phpjson/blob/main/Picture/php33.png)
+
 PHPJSON_0075_P36
 ![alt text](https://github.com/kasipat456/phpjson/blob/main/Picture/php36.png)
 
